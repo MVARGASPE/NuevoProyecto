@@ -1,4 +1,16 @@
 # NuevoProyecto
+
+SE SOBREESCRIBE TALLE COMPLETO DE JS, PROBANDO LOS REPOSITORIOS ANTERIORES DONDE NO SE DEJABA CARAGAR LOS ARHIVOS DADOS QUE EL GIT LA VERSIÓN ESTABA FALLANDO UNA VEZ SE DESINSTALÓ, FUNCIONÓ¡¡
+
+
+
+
+
+
+
+
+
+
 Pagina web con wencomponents, boostrap, js, css, y html
 
 Se procede a realizar un nuevo proyecto git, ya que los anteriores a la hora de hacer push se caían, o presentaba error
