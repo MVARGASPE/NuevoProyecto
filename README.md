@@ -4,6 +4,7 @@ SE SOBREESCRIBE TALLE COMPLETO DE JS, PROBANDO LOS REPOSITORIOS ANTERIORES DONDE
 
 
 
+se agrega imagen del programa funcionando 
 
 
 
